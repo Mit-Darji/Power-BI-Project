@@ -1,4 +1,4 @@
-# Power-BI-Project I
+# Power-BI-Project-I
 ## Analyzed Ecommerce sales data creating an interactive dashboard
 
 
